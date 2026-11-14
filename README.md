@@ -34,7 +34,3 @@ SAML SSO setups covering both production and sandbox environments, including a c
 ## Notes
 
 All tenant IDs, group names, org names, and connector credentials have been replaced with placeholders. No real company or vendor account data is included.
-
----
-
-**Security note:** Never commit real credentials, API keys, tenant IDs, internal URLs, or any company-identifying data. Replace with placeholders before publishing, and check commit history too.
